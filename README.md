@@ -1,2 +1,2 @@
-# character-coocurence-count
+# flattening-the-array
 Created with CodeSandbox
