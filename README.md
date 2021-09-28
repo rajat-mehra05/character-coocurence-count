@@ -1,2 +1,2 @@
-# flattening-the-array
+### Counting Character-Occurence
 Created with CodeSandbox
